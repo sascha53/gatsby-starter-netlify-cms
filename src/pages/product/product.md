@@ -2,7 +2,7 @@
 templateKey: product-page
 path: /products
 title: Our Coffee is cooler
-image: /img/jumbotron.jpg
+image: /img/9eafb1a3-b1b4-4e2b-95b1-132f639a9b16.jpeg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
